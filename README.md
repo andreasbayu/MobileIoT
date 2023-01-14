@@ -18,3 +18,6 @@ $ npm run android
 ```
 https://wokwi.com/projects/350637326373749331
 ```
+
+###
+![alt](./images/1.png)
